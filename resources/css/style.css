@@ -1,0 +1,21 @@
+
+
+* {
+    background-color: black;
+    text-align: center; 
+}
+
+h1 {
+    color: white;
+}
+
+.quote {
+    color: lightgreen;
+}
+
+h3 {
+    color: lightgray;
+    opacity: 50%;
+}
+
+
